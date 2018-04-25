@@ -17,3 +17,13 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 # Market Scanner
 | Name | Description| Action|
 |----------- | ----------| -----------|
+|M1 | One Minute Timeframe | Great for scalpers |
+|M5 | Five Minute Timeframe | Great for scalpers |
+|M15 | Fifteen Minute Timeframe | Great for Day Traders |
+|M30 | Thirty Minute Timeframe | Great for Day Traders |
+|H1| One Hour Timeframe | Great for Swing Traders |
+|H4 | Four Hour Timeframe | Great for Swing Traders |
+|D1 | Daily Timeframe | Great for position Traders and long term investors|
+
+# Data Feed
+Bitfinex BTCUSD Pair
