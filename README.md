@@ -14,7 +14,7 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 | Name | Description| Action|
 |----------- | ----------| -----------|
 | RSI | Indicator reaches Overbought/Oversold levels and waits to cross back before signaling | Entry is best during ranging markets |
-| BAND| Bollinger Band Breakout of standard deviation | Entry is best during Trending markets, Only take in direction of Trend|
+| BAND| Bollinger Band Breakout of standard deviation OB/OS Setup | Entry is best during Ranging markets, Only take in direction of EMA Trend|
 | EMA | 100 Period EMA acts as support when price is above the EMA and resistance when below the EMA | Entry in direction of the EMA is always best during Trending markets|
 |MACD| Moving Average convergence/divergence antipicates Trend reversals followed by momentum | Entry suggests Trend Reversals |
 |ICHI | Ichimoku Tenkan Kijun Cross over expects Momentum breakouts and follow through | Often a delayed signal that catches Momentum breakouts during Trend Reversals |
@@ -35,4 +35,4 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 |D1 | Daily Timeframe | Great for position Traders and long term investors|
 
 # Data Feed
-Bitfinex BTCUSD Pair
+Bitfinex
