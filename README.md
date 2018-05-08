@@ -1,6 +1,15 @@
 # CryptoCoinCopy
 Quantitative algorithms  scan the financial markets to find opportunities for the CryptoCoinCopy Community  
 
+# Telegram Rooms
+| Name | Description| Telegram Link|Chatroom |
+|----------- | ----------| -----------| -----------|
+|Bitcoin | BTCUSD | https://t.me/cryptocopy |@cryptocopy |
+| BitcoinCash |BCHBTC |https://t.me/cryptocopyBCH |@cryptocopyBCH |
+|Litecoin | LTCBTC |https://t.me/cryptocopyLTC  |@cryptocopyLTC |
+|Ether | ETHBTC |https://t.me/cryptocopyETH |@cryptocopyETH |
+|Alts | ADA,XRP|https://t.me/cryptocopyALT |@cryptocopyALT |
+
 # Signals
 | Name | Description| Action|
 |----------- | ----------| -----------|
