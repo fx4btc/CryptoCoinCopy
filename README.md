@@ -4,11 +4,11 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 # Telegram Rooms
 | Name | Description| Telegram Link|Chatroom |
 |----------- | ----------| -----------| -----------|
-|Bitcoin | BTCUSD | https://t.me/cryptocopy |@cryptocopy |
-| BitcoinCash |BCHBTC |https://t.me/cryptocopyBCH |@cryptocopyBCH |
-|Litecoin | LTCBTC |https://t.me/cryptocopyLTC  |@cryptocopyLTC |
-|Ether | ETHBTC |https://t.me/cryptocopyETH |@cryptocopyETH |
-|Alts | ADA,XRP|https://t.me/cryptocopyALT |@cryptocopyALT |
+|Bitcoin Scalp | BTCUSD | https://t.me/cryptocopy |@cryptocopy |
+| Bitcoin |BTCUSD|https://t.me/cryptocopy5 |@cryptocopy5 |
+|Bitcoin  | BTCUSD |https://t.me/cryptocopy15  |@cryptocopy15|
+|Bitcoin  |BTCUSD |https://t.me/cryptocopy30 |@cryptocopy30 |
+|Bitcoin Swing | BTCUSD|https://t.me/cryptocopy60 |@cryptocopy60 |
 
 # Signals
 | Name | Description| Action|
