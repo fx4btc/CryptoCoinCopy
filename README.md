@@ -6,9 +6,6 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 |----------- | ----------| -----------| -----------|
 |Bitcoin Scalp | BTCUSD | https://t.me/cryptocopy |@cryptocopy |
 | Bitcoin |BTCUSD|https://t.me/cryptocopy5 |@cryptocopy5 |
-|Bitcoin  | BTCUSD |https://t.me/cryptocopy15  |@cryptocopy15|
-|Bitcoin  |BTCUSD |https://t.me/cryptocopy30 |@cryptocopy30 |
-|Bitcoin Swing | BTCUSD|https://t.me/cryptocopy60 |@cryptocopy60 |
 
 # Signals
 | Name | Description| Action|
