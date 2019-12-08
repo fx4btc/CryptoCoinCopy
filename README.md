@@ -5,6 +5,7 @@ Quantitative algorithms  scan the financial markets to find opportunities for th
 | Name | Description| Telegram Link|Chatroom |
 |----------- | ----------| -----------| -----------|
 |Bitcoin Scalp | BTCUSD | https://t.me/cryptocopy |@cryptocopy |
+|Ethereum Swing | ETHUSD | https://t.me/cryptocoincopy |@cryptocoincopy |
 
 # Signals
 | Name | Description| Action|
